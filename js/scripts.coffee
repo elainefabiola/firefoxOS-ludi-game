@@ -1,8 +1,10 @@
 LudiGame = LudiGame || {};
 LudiGame.app =
   testTouch: ->
-    div = document.querySelector '.teste' ;
+    div = document.querySelector '.test'
     div.addEventListener 'touch', ->
-      console.log
+      console.log 'clicked'
       return
     return
+
+LudiGame.app.testTouch()
