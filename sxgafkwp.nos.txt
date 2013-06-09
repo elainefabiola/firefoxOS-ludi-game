@@ -1,0 +1,23 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   img/fundo2.jpg
+#	new file:   img/fundoini.jpg
+#
+# Changes not staged for commit:
+#   (use "git add/rm <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	deleted:    img/ludi (1).jpeg
+#	deleted:    img/ludi (1).jpg
+#	deleted:    img/ludi (2).jpg
+#	deleted:    img/ludi (3).jpg
+#	deleted:    img/ludi (4).jpg
+#	deleted:    img/ludi (5).jpg
+#	deleted:    img/ludi (6).jpg
+#
+
